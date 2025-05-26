@@ -49,4 +49,4 @@ These Terms are governed by and construed in accordance with the laws of [Your J
 
 ## 13. Contact
 For questions about these Terms, please contact us at:  
-**Email**: support@justbot.xyz
+**Email**: hello@justbot.xyz
