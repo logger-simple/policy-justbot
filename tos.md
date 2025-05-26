@@ -1,4 +1,4 @@
-# Terms of Use - JustBot
+# JustBot Terms of Use
 *Effective Date: May 26, 2025*
 
 ---
